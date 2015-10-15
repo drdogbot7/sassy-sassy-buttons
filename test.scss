@@ -1,0 +1,5 @@
+@import 'sassy-buttons/sassy-buttons';
+
+.btn {
+    @include sassy-button;
+}
