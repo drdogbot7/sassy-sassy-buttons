@@ -1,0 +1,22 @@
+{
+  "name": "sassy-sassy-buttons",
+  "homepage": "https://github.com/drdogbot7/sassy-sassy-buttons",
+  "authors": [
+    "Jeremy Mullis <jeremy.mullis@gmail.com>"
+  ],
+  "description": "fork of Sassy Buttons without Compass functions",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "buttons",
+    "scss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
