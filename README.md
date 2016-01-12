@@ -1,4 +1,4 @@
-sassy-buttons-bower
+sassy sassy buttons
 ===================
 
-Install sassy-buttons with bower
+This is a fork of Sassy Buttons with the Compass dependencies removed for use in vanilla SCSS projects.
