@@ -1,0 +1,25 @@
+{
+  "name": "sassy-sassy-buttons",
+  "version": "1.0.0",
+  "description": "Fork of Sassy-Buttons without Compass dep",
+  "main": "_sassybuttons.sass",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drdogbot7/sassy-sassy-buttons.git"
+  },
+  "keywords": [
+    "buttons",
+    "scss",
+    "compass",
+    "sass"
+  ],
+  "author": "drdogbot7",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/drdogbot7/sassy-sassy-buttons/issues"
+  },
+  "homepage": "https://github.com/drdogbot7/sassy-sassy-buttons#readme"
+}

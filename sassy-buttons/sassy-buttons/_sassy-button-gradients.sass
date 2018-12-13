@@ -9,11 +9,7 @@
   @if $lightness > 75
     $brightnessDivsor : 2
 
-  // user a simple filter gradient if $sb-ie-support is true
-  @if $ie
-    @include filter-gradient($first-color, darken($first-color, 20%))
-  @else
-    background-color: $base-color
+  background-color: $base-color
 
   // Matte Gradient Style
   @if $style == "matte"
